@@ -45,3 +45,8 @@ Este proyecto fue diseñado con una filosofía de "fricción cero". No necesitas
 1. Clona este repositorio:
    ```bash
    git clone [https://github.com/tu-usuario/Software-Monetization-Impact-Tracker.git](https://github.com/tu-usuario/Software-Monetization-Impact-Tracker.git)
+2. Abre el archivo PlayStore-NLP-Sentiment-Analysis.ipynb en Google Colab o en tu entorno local de Jupyter.
+
+3. Asegúrate de tener instaladas las dependencias (pandas, nltk, scikit-learn, matplotlib, seaborn, gdown).
+
+4. Ejecuta todas las celdas secuencialmente. El notebook descargará automáticamente el dataset público y generará las gráficas de impacto.
